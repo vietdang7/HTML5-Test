@@ -65,7 +65,7 @@ table {
 }
 
 /* Section settings */
-section {
+.main-container {
   width: 912px;
   margin: 0 auto;
 }
