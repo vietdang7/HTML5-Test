@@ -69,3 +69,8 @@ table {
   width: 912px;
   margin: 0 auto;
 }
+.page-title h1 {
+  font-size: 1.5em;
+  color: #757575;
+  font-weight: bold;
+}
