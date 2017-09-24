@@ -52,4 +52,5 @@ table {
   display: flex;
   align-items: center;
   padding: 32px;
+  background-color: #adb5bd;
 }
