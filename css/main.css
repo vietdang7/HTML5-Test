@@ -48,6 +48,10 @@ table {
 	border-spacing: 0;
 }
 
+/* General settings */
+body {
+  background-color: #f1f1f1;
+}
 
 /* Navbar setting */
 .navbar {
@@ -73,4 +77,6 @@ table {
   font-size: 1.5em;
   color: #757575;
   font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 30px;
 }
