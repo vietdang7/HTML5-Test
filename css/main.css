@@ -22,6 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+  font-family: sans-serif;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -47,10 +48,15 @@ table {
 	border-spacing: 0;
 }
 
+
 /* Navbar setting */
 .navbar {
   display: flex;
   align-items: center;
   padding: 32px;
   background-color: #adb5bd;
+}
+
+.brand-text {
+
 }
