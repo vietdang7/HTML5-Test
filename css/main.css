@@ -58,5 +58,8 @@ table {
 }
 
 .brand-text {
-
+  font-size: 1.5em;
+  margin-left: 5px;
+  letter-spacing: 1px;
+  color: white;
 }
