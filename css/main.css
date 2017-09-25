@@ -103,4 +103,8 @@ html {
   height: 40px;
   font-size: 1em;
   padding: 16px;
+  margin-right: 10px;
+}
+button {
+  float: right;
 }
