@@ -135,9 +135,15 @@ html {
   background-color: white;
   margin-top: 5px;
 
+
 }
 .main-table th {
   text-align: left;
   vertical-align: middle;
   height: 48px;
+  padding-left: 24px;
+}
+.main-table td {
+  height: 72px;
+
 }
