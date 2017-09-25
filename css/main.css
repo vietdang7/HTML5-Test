@@ -105,6 +105,12 @@ html {
   padding: 16px;
   margin-right: 10px;
 }
-button {
+
+.button {
   float: right;
+  text-decoration: none;
+  height: 40px;
+  color: #757575;
+  background-color: #EDEDED;
+  padding: 13px 20px 5px 20px;
 }
