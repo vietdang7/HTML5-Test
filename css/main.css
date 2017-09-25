@@ -122,12 +122,22 @@ html {
 .button-normal {
   float: right;
   text-decoration: none;
+  text-align: center;
   height: 40px;
   color: #757575;
   background-color: #EDEDED;
-  padding: 13px 20px 5px 20px;
+  padding: 13px;
 }
 
-table {
+/* Table setting */
+.main-table {
   width: 100%;
+  background-color: white;
+  margin-top: 5px;
+
+}
+.main-table th {
+  text-align: left;
+  vertical-align: middle;
+  height: 48px;
 }
