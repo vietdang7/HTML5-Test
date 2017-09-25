@@ -115,6 +115,7 @@ html {
   height: 40px;
   font-size: 1em;
   padding: 16px;
+  margin-right: 5px;
 
 }
 
@@ -125,4 +126,8 @@ html {
   color: #757575;
   background-color: #EDEDED;
   padding: 13px 20px 5px 20px;
+}
+
+table {
+  width: 100%;
 }
