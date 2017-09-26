@@ -52,6 +52,9 @@ table {
 body {
   background-color: #f1f1f1;
 }
+p {
+  display: inline;
+}
 /* Universal box-sizing */
 html {
   -webkit-box-sizing: border-box;
@@ -148,6 +151,7 @@ html {
 }
 th, td {
   vertical-align: middle;
+  border-bottom: 1px solid #ededed;
 }
 .main-table td {
   height: 72px;
@@ -167,10 +171,13 @@ td:last-child {
 }
 
 /* Fa icons */
- i {
+ td i {
   padding: 0 30px;
   color:#909090;
   width: 24px;
   height: 24px;
 
+}
+th i {
+  padding-left: 5px;
 }
