@@ -115,7 +115,7 @@ html {
   height: 40px;
   font-size: 1em;
   padding: 16px;
-  margin-right: 5px;
+  margin-right: 10px;
 
 }
 
@@ -141,9 +141,13 @@ html {
   text-align: left;
   vertical-align: middle;
   height: 48px;
-  padding-left: 24px;
+
 }
 .main-table td {
   height: 72px;
 
+}
+
+td:first-child, th:first-child {
+  padding-left: 24px;
 }
