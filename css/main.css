@@ -140,6 +140,10 @@ html {
 .main-table th {
   text-align: left;
   height: 48px;
+  color: #757575;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
 
 }
 th, td {
