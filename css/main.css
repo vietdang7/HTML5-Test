@@ -139,9 +139,11 @@ html {
 }
 .main-table th {
   text-align: left;
-  vertical-align: middle;
   height: 48px;
 
+}
+th, td {
+  vertical-align: middle;
 }
 .main-table td {
   height: 72px;
